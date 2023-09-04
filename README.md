@@ -1,7 +1,8 @@
 # FridaytheAIVOICE
 A voice to voice AI-Assistant based on chatGPT
 
-My attempt at a voice controlled AI assistant. 
+My attempt at a voice controlled AI assistant. Based on code from: https://github.com/Ascensao/python_chatGPT_voice
+
 
 Currently all the API-code is included inside the python-script. This needs to be placed elsewhere 
 for security reasons. I havent had time to do so. 
