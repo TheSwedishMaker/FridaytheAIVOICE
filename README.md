@@ -7,6 +7,9 @@ My attempt at a voice controlled AI assistant. Based on code from: https://githu
 Currently all the API-code is included inside the python-script. This needs to be placed elsewhere 
 for security reasons. I havent had time to do so. 
 
+To run this script you need an API-key from Open AI as well as from Amazon Polly for text to voice service. 
+These might cost you - make sure before you pursue. 
+
 To install 
 
 clone repo https://github.com/TheSwedishMaker/FridaytheAIVOICE
